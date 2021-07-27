@@ -11,6 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("sdf");
         System.out.println("sdhotfix");
-        System.out.println("PUSH TEST");
+        System.out.println("Pull TEST");
     }
 }
